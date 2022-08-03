@@ -1,0 +1,30 @@
+.mensaje{
+    h2{
+        text-align: center;
+        padding: 25px
+    }
+    p{
+        padding: 0px 25px;
+    }
+}
+
+.galeria{
+    overflow: hidden;
+    .galeria__img{
+    
+       width: 670px;
+       img {
+            padding: 20px;
+            border-radius: 35px;
+        }
+       
+    }
+    .galeria__texto{
+        
+       h2{
+        padding: 10px;
+        text-align: center;
+       } 
+    }
+}
+
